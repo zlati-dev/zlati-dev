@@ -1,6 +1,6 @@
 # Hi there, I'm Zlati Pencheva 👋
 
-I'm a **Junior Frontend Developer** passionate about building beautiful and functional web applications. I love creating useful apps that help people in their daily lives.
+I'm a **self-taught front-end developer** passionate about building beautiful and functional web applications. I work with **React, JavaScript, HTML, CSS, and Tailwind CSS** to create useful apps that help people in their daily lives.
 
 ## 🛠️ Tech Stack
 
